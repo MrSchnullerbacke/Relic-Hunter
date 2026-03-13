@@ -1,0 +1,32 @@
+EXAMPLE RELICS
+
+Weapon Relics
+Arc Blade – energy slash
+Spirit Bow – ghost arrows
+Boomerang Idol – returning projectile
+Shock Lance – piercing lightning strike
+Orb of Gravity – pulls enemies together
+
+Element Relics
+Flame Core – adds burn damage
+Frost Core – slows enemies
+Storm Core – chain lightning
+Venom Core – poison damage
+Void Core – life drain
+
+Modifier Relics
+Echo Stone – repeat attack once
+Prism Lens – split projectiles
+Overload Crystal – attacks explode
+Temporal Shard – cooldown reduction
+
+Summon Relics
+Skeleton Idol – skeleton ally
+Spirit Lantern – orbiting spirits
+Spider Egg – spider summons
+
+Passive Relics
+Titan Heart – increased health
+Blood Amulet – life steal
+Swift Boots – faster movement
+Lucky Coin – better loot chance

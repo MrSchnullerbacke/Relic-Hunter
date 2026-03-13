@@ -1,0 +1,22 @@
+DUNGEON BIOMES
+
+Forgotten Crypt
+Undead enemies and ancient tombs.
+
+Spider Caverns
+Poisonous spiders and web traps.
+
+Ancient Temple
+Stone guardians and puzzle rooms.
+
+Lava Depths
+Fire enemies and magma hazards.
+
+Arcane Workshop
+Magical machines and unstable energy.
+
+Crystal Catacombs
+Reflective crystal structures and echo mechanics.
+
+Void Realm
+Reality distortions and shadow enemies.

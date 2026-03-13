@@ -1,0 +1,39 @@
+ENEMY DESIGN GUIDE
+
+Purpose Enemies should create different combat pressures and tactical
+situations rather than only having different health values.
+
+Enemy Design Principles
+
+1.  Clear Role Each enemy must have a defined combat role:
+
+-   Grunt (basic melee)
+-   Ranged attacker
+-   Tank
+-   Swarm unit
+-   Support/healer
+-   Summoner
+-   Area denial enemy
+
+2.  Readable Behavior Players must be able to understand enemy attacks
+    quickly through animation, movement, or telegraph indicators.
+
+3.  Combat Pressure Enemies should create different types of pressure:
+
+-   movement pressure
+-   positioning pressure
+-   crowd pressure
+-   time pressure
+
+4.  Synergy Between Enemies Enemy groups should be designed to
+    complement each other.
+
+Example combinations: Tank + Ranged Swarm + Area caster Support + Elite
+
+5.  Elite Variants Elite enemies should modify normal enemy behavior
+    with special traits such as:
+
+-   fire aura
+-   poison trails
+-   faster movement
+-   shield ability

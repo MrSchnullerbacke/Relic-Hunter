@@ -1,0 +1,28 @@
+DATA STRUCTURE OVERVIEW
+
+Relic Data
+
+Attributes Name Type Rarity Tags BaseEffect SynergyTags
+
+Example { name: “Flame Core”, type: “Element”, rarity: “Rare”, tags:
+[“fire”,“element”], effect: “adds burn damage” }
+
+Enemy Data
+
+Attributes Name Type Health Damage Behavior LootTable
+
+Example { name: “Skeleton”, type: “Grunt”, health: 30, damage: 5,
+behavior: “melee”, loot: “common” }
+
+Room Data
+
+Attributes RoomType EnemyPool RewardType SpecialMechanic
+
+Example { type: “CombatRoom”, enemies: [“Skeleton”,“Bone Archer”],
+reward: “gold” }
+
+Dungeon Layout Data
+
+StartRoom RoomSequence BossRoom
+
+Example Start → Combat → Elite → Shrine → Boss

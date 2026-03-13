@@ -1,0 +1,31 @@
+GAME ENTITIES
+
+Player The controllable character. Has movement, health, relic slots and
+combat abilities.
+
+Enemy Hostile unit with defined behavior patterns and attack types.
+
+Elite Enemy Stronger enemy variant with additional modifiers and better
+loot drops.
+
+Boss Large enemy encounter that ends a dungeon layer or biome.
+
+Projectile Temporary entity created by attacks such as arrows, spells,
+or energy bolts.
+
+Summon Friendly helper unit spawned by relics.
+
+Relic Core gameplay item that grants abilities, modifiers, or passive
+effects.
+
+Room A single dungeon space containing enemies, events, puzzles, or
+loot.
+
+Dungeon Collection of connected rooms forming a level.
+
+Shrine Interactive object granting temporary buffs.
+
+Shop Merchant location where relics or healing can be purchased.
+
+Event Object Special interactive objects such as cursed chests or relic
+altars.

@@ -1,0 +1,41 @@
+BOSS DESIGN TEMPLATE
+
+Each boss should follow a consistent design structure.
+
+Basic Information
+
+Boss Name: Biome: Visual Theme:
+
+Combat Identity
+
+What gameplay challenge does this boss test? Examples: mobility area
+control burst damage target prioritization
+
+Attack Set
+
+Attack 1: description
+
+Attack 2: description
+
+Attack 3: description
+
+Boss Phases
+
+Phase 1 Basic attacks and mechanics.
+
+Phase 2 Additional attacks or arena mechanics.
+
+Phase 3 (optional) Final aggressive phase.
+
+Arena Mechanics
+
+Examples: lava zones spider webs falling rocks energy beams
+
+Rewards
+
+Possible relic drops: Relic 1 Relic 2 Relic 3
+
+Design Goals
+
+Boss fights should: - feel unique - test player builds - require
+movement and strategy - reward player mastery

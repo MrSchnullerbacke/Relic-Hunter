@@ -1,0 +1,18 @@
+RELlC HUNTER – BASIC IDEA
+
+Relic Hunter is a retro top‑down action adventure roguelite inspired by dungeon crawlers like Diablo and exploration games like Zelda.
+
+Core concept:
+The player begins each run as a neutral adventurer with very limited abilities. Power and playstyle are defined almost entirely by relics discovered during the dungeon run.
+
+Key goals:
+- Fast, readable combat
+- High replayability
+- Emergent builds through relic combinations
+- Short but meaningful dungeon runs
+
+Run structure:
+Enter dungeon → fight enemies → find relics → develop build → defeat boss → continue deeper.
+
+Design philosophy:
+Relics are not just items. They are the main combat system.

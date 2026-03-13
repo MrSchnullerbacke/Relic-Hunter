@@ -1,0 +1,32 @@
+RELIC DESIGN RULES
+
+Relics are the core gameplay system of Relic Hunter.
+
+Design Principles
+
+1.  Every Relic Must Change Gameplay Relics should modify how the player
+    fights rather than only adding numerical bonuses.
+
+Examples: Good: - projectiles split - attacks explode - enemies are
+pulled toward the player
+
+Weak: - +5% damage - +3% speed
+
+2.  Clear Role Each relic belongs to one category: Weapon Element
+    Modifier Summon Passive Risk Legendary
+
+3.  Use Tag System Relics use tags to allow system-based interactions.
+
+Example tags: projectile melee summon aoe fire frost storm poison void
+
+Tags allow synergy without manually defining every combination.
+
+4.  Risk vs Reward Some relics should offer strong effects with
+    drawbacks.
+
+Example: High damage but lower health Powerful ability with longer
+cooldown Area damage that slightly hurts the player
+
+5.  Build Identity Relics should naturally lead players into
+    recognizable build types such as: summoner builds projectile builds
+    element builds control builds

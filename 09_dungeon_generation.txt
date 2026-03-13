@@ -1,0 +1,18 @@
+DUNGEON GENERATION RULES
+
+Dungeons are semi‑procedural rather than fully random.
+
+Structure example:
+Start Room
+3–6 Combat Rooms
+1 Special Room
+1 Elite or Event Room
+1 Shrine or Shop
+Optional Mini‑Boss
+Final Boss Room
+
+Design goals:
+- Fair difficulty curve
+- Early build opportunity
+- Meaningful player choices
+- Variety between runs

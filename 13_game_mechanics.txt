@@ -1,0 +1,35 @@
+GAME MECHANICS
+
+Movement Top-down directional movement. Player can dodge using a dash
+ability.
+
+Combat Player attacks enemies using abilities granted by relics. Enemies
+attack through melee, ranged, or area attacks.
+
+Damage Types Physical Fire Frost Storm Poison Void
+
+Status Effects
+
+Burn Damage over time.
+
+Freeze Short immobilization or heavy slow.
+
+Shock Chain lightning effect to nearby enemies.
+
+Poison Stacking damage over time.
+
+Void Drain Life-steal or health absorption effect.
+
+Critical Hits Chance for attacks to deal increased damage.
+
+Cooldown System Certain relic abilities trigger cooldown timers before
+reuse.
+
+Area Effects Some attacks create zones such as fire pools or gravity
+fields.
+
+Summoning Relics can spawn allied units that attack enemies
+automatically.
+
+Risk Mechanics Certain relics grant powerful bonuses with drawbacks such
+as reduced health or self-damage.

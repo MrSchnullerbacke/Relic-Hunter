@@ -1,0 +1,31 @@
+ROOM TYPES
+
+Combat Room
+Standard fight.
+
+Treasure Room
+Contains relic reward.
+
+Elite Room
+Harder fight with better loot.
+
+Shop Room
+Merchant selling relics or healing.
+
+Shrine Room
+Temporary buffs.
+
+Puzzle Room
+Environmental puzzle challenge.
+
+Event Room
+Random special encounter.
+
+Trap Room
+Environmental hazards.
+
+Mini‑Boss Room
+Mid‑dungeon boss.
+
+Boss Room
+Final fight of biome.

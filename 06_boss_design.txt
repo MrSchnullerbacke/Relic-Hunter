@@ -1,0 +1,26 @@
+BOSS DESIGN PRINCIPLES
+
+Bosses are designed to test builds rather than simply having high HP.
+
+Key rules:
+- Clear attack telegraphs
+- Multiple phases
+- Unique arena mechanics
+- Specific gameplay challenge
+
+Example Bosses:
+
+Bone King
+Skeleton ruler who summons minions.
+
+Spider Matriarch
+Fast boss creating web traps and spider swarms.
+
+Colossus Sentinel
+Huge stone guardian with heavy attacks.
+
+Inferno Titan
+Controls lava zones and fire bursts.
+
+Relic Warden
+Endgame boss that adapts to the player's relic build.

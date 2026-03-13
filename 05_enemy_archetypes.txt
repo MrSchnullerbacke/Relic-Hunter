@@ -1,0 +1,31 @@
+ENEMY TYPES
+
+Grunt
+Basic melee enemy.
+
+Ranged
+Attacks from distance.
+
+Tank
+Slow but durable.
+
+Swarm
+Many small enemies.
+
+Summoner
+Creates additional enemies.
+
+Caster
+Uses magical attacks.
+
+Support
+Heals or buffs other enemies.
+
+Pressure Enemy
+Forces player movement with area attacks.
+
+Denial Enemy
+Blocks areas or projectiles.
+
+Elite
+Rare stronger variant with special modifiers.

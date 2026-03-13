@@ -1,0 +1,12 @@
+META PROGRESSION
+
+Progression outside the run should support but not dominate gameplay.
+
+Possible upgrades:
+Increase starting health
+Unlock additional relic slots
+Improve relic rarity chances
+Unlock new relics
+Unlock new dungeons
+
+Runs should still depend primarily on decisions and relic combinations within the dungeon.

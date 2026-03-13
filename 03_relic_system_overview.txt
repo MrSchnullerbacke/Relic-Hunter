@@ -1,0 +1,17 @@
+RELIC SYSTEM OVERVIEW
+
+Relics define nearly all player power.
+
+Categories:
+1. Weapon Relics – primary attacks
+2. Element Relics – add elemental effects
+3. Modifier Relics – change behavior of abilities
+4. Summon Relics – spawn allies
+5. Passive Relics – improve survivability or utility
+6. Risk Relics – powerful effects with drawbacks
+7. Legendary Relics – run‑defining effects
+
+Relics also use internal tags:
+projectile, melee, summon, aura, fire, frost, storm, poison, void, crit, dash, aoe.
+
+These tags allow automatic synergies between relics.

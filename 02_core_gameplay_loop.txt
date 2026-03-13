@@ -1,0 +1,25 @@
+CORE GAMEPLAY LOOP
+
+1. Start a dungeon run
+2. Fight basic enemies
+3. Discover relics
+4. Combine relics to shape a build
+5. Choose risk/reward paths
+6. Defeat elite enemies and mini‑bosses
+7. Fight biome boss
+8. Earn rewards and progress
+9. Enter deeper dungeon layers
+
+Run phases:
+
+Early Run
+- Simple enemies
+- First weapon relic
+
+Mid Run
+- Synergies begin
+- Elites appear
+
+Late Run
+- Build reaches full power
+- Boss encounter tests the build

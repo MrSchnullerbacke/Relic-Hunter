@@ -1,0 +1,21 @@
+BUILD EXAMPLES
+
+Storm Ranger
+Spirit Bow + Storm Core + Chain Seal
+Fast lightning chain attacks.
+
+Blood Berserker
+Arc Blade + Blood Core + Last Ember
+More damage when health is low.
+
+Necro Swarm
+Skeleton Idol + Lantern of Souls
+Many summoned allies.
+
+Black Hole Mage
+Orb of Gravity + Void Core
+Pull enemies together then explode them.
+
+Fire Dancer
+Flame Core + Whirl attack
+Mobile fire area attacks.
