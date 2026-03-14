@@ -1,0 +1,120 @@
+RELIC DATABASE
+
+Project: Relic Hunter
+Format: Name | Category | Rarity | Tags | Core Effect | Design Note
+
+001. Arc Blade | Weapon | Common | melee, physical | Short forward energy slash. | Reliable starter melee relic.
+002. Twin Fang | Weapon | Common | melee, physical, fast | Fast double strike. | Low range, high attack speed.
+003. Hammer Sigil | Weapon | Rare | melee, aoe, physical, heavy | Heavy area slam around target point. | Slow but strong crowd hit.
+004. Whirl Charm | Weapon | Rare | melee, aoe, spin | Short spinning attack around player. | Good for close-range swarm clear.
+005. Execution Edge | Weapon | Rare | melee, physical, execute | Deals bonus damage to low-HP enemies. | Finisher-oriented melee relic.
+006. Bleed Knife | Weapon | Common | melee, physical, bleed | Hits apply bleed over time. | Simple DoT melee option.
+007. Sun Mace | Weapon | Rare | melee, aoe, light | Radial holy smash around player. | Wide close-range coverage.
+008. Phantom Dagger | Weapon | Common | melee, void, fast | Very fast short-range spectral stab. | High tempo, low reach.
+009. Crushing Idol | Weapon | Rare | melee, physical, knockback | Every few hits knock enemies back. | Control-focused melee relic.
+010. Viper Talon | Weapon | Rare | melee, poison | Melee strikes apply poison. | Sustained damage through poison stacks.
+011. Spirit Bow | Weapon | Common | projectile, physical | Fires ghostly arrows forward. | Core ranged build starter.
+012. Boomerang Idol | Weapon | Rare | projectile, return | Throws a returning boomerang projectile. | Can hit targets twice.
+013. Shock Lance | Weapon | Rare | projectile, storm, pierce | Launches a piercing lightning spear. | Straight-line burst attack.
+014. Rune Sling | Weapon | Common | projectile, arcane | Fires magical bolts. | Basic ranged magic option.
+015. Needle Crown | Weapon | Rare | projectile, multi | Shoots multiple small needles. | Projectile swarm weapon.
+016. Piercing Fang | Weapon | Common | projectile, physical, pierce | Projectiles pierce one target. | Simple linear upgrade.
+017. Moon Disc | Weapon | Rare | projectile, orbit, return | Throws a crescent disc in a curved path. | Space-control projectile.
+018. Burst Wand | Weapon | Common | projectile, arcane, burst | Fires short projectile bursts. | Good tempo ranged relic.
+019. Hunter Totem | Weapon | Rare | projectile, physical, charged | Every third shot is empowered. | Rhythm-based ranged pressure.
+020. Star Needle | Weapon | Rare | projectile, physical, precision | Fast precise single-target shot. | Sniper-style ranged relic.
+021. Orb of Gravity | Weapon | Epic | projectile, aoe, pull, control | Creates a gravity orb that pulls enemies inward. | Core control relic.
+022. Storm Bell | Weapon | Epic | aoe, storm, zone | Calls lightning into a target area. | Area denial and burst.
+023. Flame Urn | Weapon | Rare | aoe, fire, zone | Creates a burning patch on the ground. | Sustained area damage.
+024. Shard Relic | Weapon | Rare | projectile, frost, cone | Launches a cone of icy shards. | Close-mid frost burst.
+025. Void Pebble | Weapon | Rare | projectile, void, explode | Fires a dark projectile that explodes on impact. | Compact void AoE.
+026. Flame Core | Element | Common | fire, element | Adds fire damage and burn interactions. | Base fire enabler.
+027. Frost Core | Element | Common | frost, element, slow | Adds frost damage and slowing effects. | Base cold enabler.
+028. Storm Core | Element | Common | storm, element, chain | Adds lightning damage and chain potential. | Base storm enabler.
+029. Venom Core | Element | Common | poison, element, dot | Adds poison damage over time. | Base poison enabler.
+030. Void Core | Element | Rare | void, element, drain | Adds void damage and life-drain themes. | Base void enabler.
+031. Light Core | Element | Rare | light, element, holy | Adds holy/light damage and blind potential. | Anti-undead / radiant identity.
+032. Blood Core | Element | Epic | blood, element, risk | Effects scale with missing health. | Risk-reward damage identity.
+033. Stone Core | Element | Rare | physical, element, knockback, heavy | Adds impact, knockback, and weight. | Turns attacks more forceful.
+034. Wind Core | Element | Rare | wind, element, speed | Improves speed, reach, and fluidity. | Mobility/tempo identity.
+035. Echo Core | Element | Epic | echo, element, repeat | Causes attacks to leave lingering repeats. | Foundation for echo builds.
+036. Echo Stone | Modifier | Rare | repeat, modifier | Abilities repeat once at reduced strength. | Universal synergy tool.
+037. Overload Crystal | Modifier | Epic | explode, modifier | Hits can trigger explosions. | Strong AoE modifier.
+038. Prism Lens | Modifier | Rare | split, modifier, projectile | Projectiles split into additional shots. | Projectile build staple.
+039. Temporal Shard | Modifier | Epic | cooldown, speed, modifier | Reduces cooldowns and ability downtime. | Enables rapid-fire builds.
+040. Chaos Cube | Modifier | Epic | chaos, modifier, random | Abilities gain a random secondary effect. | High variance modifier.
+041. Heavy Sigil | Modifier | Common | heavy, modifier | Abilities hit slower but harder. | Simple weight tradeoff.
+042. Swift Sigil | Modifier | Common | fast, modifier | Abilities hit faster but weaker. | Tempo tradeoff modifier.
+043. Chain Seal | Modifier | Rare | chain, modifier | Hits jump to an additional nearby target. | Excellent for multi-target builds.
+044. Ricochet Gem | Modifier | Rare | bounce, modifier, projectile | Projectiles bounce off walls or enemies. | Map-dependent projectile scaling.
+045. Giant Rune | Modifier | Rare | aoe, modifier, size | Increases area and size of effects. | Big-field synergy piece.
+046. Miniature Rune | Modifier | Common | modifier, focus | Reduces area but increases precision damage. | Condensed power modifier.
+047. Pulse Engine | Modifier | Epic | pulse, modifier, aoe | Abilities emit secondary pulses. | Turns single hits into layered effects.
+048. Mirror Shard | Modifier | Epic | mirror, modifier | Creates mirrored copies of some attacks. | Spatial duplication modifier.
+049. Magnet Stone | Modifier | Rare | pull, modifier, control | Abilities tug enemies toward their center. | Combines well with AoE.
+050. Wild Catalyst | Modifier | Epic | wild, modifier, element | Elemental effects become less predictable but stronger. | Chaotic element enhancer.
+051. Skeleton Idol | Summon | Common | summon, undead, melee | Summons a skeleton ally. | Basic summon starter.
+052. Spirit Lantern | Summon | Rare | summon, spirit, orbit | Summons orbiting spirits that damage nearby foes. | Defensive/offensive hybrid.
+053. Spider Egg | Summon | Rare | summon, spider, poison | Periodically spawns small spiders. | Poison swarm support.
+054. Drone Core | Summon | Rare | summon, construct, projectile | Deploys a hovering attack drone. | Ranged support summon.
+055. Guardian Statue | Summon | Epic | summon, construct, defensive | Places a stationary guardian. | Zone-control summon.
+056. Wolf Totem | Summon | Rare | summon, beast, melee, fast | Summons a quick melee wolf. | Aggressive chase summon.
+057. Crow Skull | Summon | Rare | summon, beast, flying | Summons a flying crow familiar. | Fast aerial harassment.
+058. Mushroom Pod | Summon | Rare | summon, nature, poison | Creates a fungal helper that spreads spores. | Area-control summon.
+059. Flame Sprite | Summon | Rare | summon, fire, flying | Summons a small fire spirit. | Adds burning support damage.
+060. Void Eye | Summon | Epic | summon, void, projectile | Summons a floating eye that fires void bolts. | Mid-long range void support.
+061. Bone Horn | Summon | Rare | summon, undead, swarm | Briefly calls several weak skeletons. | Burst summon wave.
+062. Mirror Familiar | Summon | Epic | summon, mirror, copy | A familiar that imitates some player attacks. | Build-copy summon.
+063. Bee Hive Relic | Summon | Rare | summon, swarm, poison | Releases bee swarms against enemies. | Persistent chip-damage summon.
+064. Lantern of Souls | Summon | Epic | summon, spirit, on-kill | Slain enemies may rise briefly as allied spirits. | Snowball summon relic.
+065. Clockwork Page | Summon | Rare | summon, construct, support | Summons a small support automaton. | Utility-focused mechanical helper.
+066. Titan Heart | Passive | Common | defensive, health | Increases maximum health. | Simple durability relic.
+067. Blood Amulet | Passive | Rare | lifesteal, defensive | Restores health on damage dealt. | Core sustain relic.
+068. Swift Boots | Passive | Common | speed, movement | Increases movement speed. | Mobility staple.
+069. Iron Anklet | Passive | Common | defensive, stability | Reduces knockback taken. | Helps against crowd pressure.
+070. Lucky Coin | Passive | Rare | loot, economy | Increases loot luck. | Economy and progression utility.
+071. Treasure Compass | Passive | Rare | utility, map | Highlights treasure opportunities. | Pathing/decision relic.
+072. Thorn Band | Passive | Common | defensive, thorns | Reflects a portion of incoming damage. | Punishes contact attackers.
+073. Sage Thread | Passive | Common | xp, progression | Increases experience gain. | Leveling support relic.
+074. Hunter's Charm | Passive | Rare | damage, elite | Deals more damage to elites. | Targeted progression tool.
+075. Last Ember | Passive | Rare | risk, damage | Gain more damage at low health. | Risk amplifier.
+076. Second Wind | Passive | Common | heal, recovery | Recover a small amount of health after clearing a room. | Run stabilizer.
+077. Ward Band | Passive | Rare | defensive, resist | Reduces incoming elemental damage. | Counters elemental biomes.
+078. Mercy Bell | Passive | Rare | heal, boss | Heals slightly before boss rooms. | Boss preparation relic.
+079. Greed Pocket | Passive | Common | gold, economy | Increases gold gained. | Shop utility relic.
+080. Bone Plate | Passive | Rare | defensive, block | Small chance to ignore a hit. | Random mitigation.
+081. Glass Vein | Passive | Epic | risk, damage, glass | Greatly increases damage but lowers health. | Glass cannon relic.
+082. Pilgrim Sandals | Passive | Common | movement, map | Move faster between rooms. | Exploration speed relic.
+083. Rune Pocket | Passive | Rare | utility, slot | Grants an extra modifier slot. | Build-capacity relic.
+084. Summoner's Thread | Passive | Rare | summon, duration | Summons last longer or perform better. | Core summon support.
+085. Stalker Cloak | Passive | Rare | burst, stealth, roomstart | Your first hit in a room is stronger. | Ambush-oriented relic.
+086. Cursed Crown | Risk | Epic | risk, curse, damage | Large damage increase but curses are stronger. | High-ceiling cursed relic.
+087. Black Pact Coin | Risk | Rare | risk, economy, health | Spend health for shop advantages. | Economy through sacrifice.
+088. Pain Engine | Risk | Epic | risk, charge, retaliation | Taking damage charges powerful effects. | Damage-for-power engine.
+089. Red Feast | Risk | Epic | risk, heal, on-kill | Healing comes only from kills; other healing is limited. | Snowball sustain relic.
+090. Glass Crown | Risk | Epic | risk, crit, fragile | Massively boosts crit potential but reduces durability. | Crit glass-cannon piece.
+091. Doom Dice | Risk | Epic | risk, random, chaos | Applies a large random bonus and a random penalty. | Extreme volatility relic.
+092. Leech Idol | Risk | Epic | risk, summon, drain | Summons siphon life, including a little from you. | Dark summon tradeoff.
+093. Burning Halo | Risk | Epic | risk, fire, aura | A damaging fire aura surrounds you and slightly hurts you too. | Aggressive close-range relic.
+094. Unstable Core | Risk | Epic | risk, element, unstable | Abilities become much stronger but may misfire or fluctuate. | High-variance power source.
+095. Debt Ledger | Risk | Rare | risk, economy, boss | Gain strong immediate bonuses but suffer a boss-time penalty. | Borrow power now, pay later.
+096. Phoenix Heart | Legendary | Legendary | legendary, revive, fire | Revive once with a fiery shockwave. | Run-saving legendary.
+097. Chrono Orb | Legendary | Legendary | legendary, time, control | Periodically slows time around you. | Powerful control legendary.
+098. Black Hole Engine | Legendary | Legendary | legendary, void, pull, aoe | Creates periodic powerful singularity effects. | Run-defining control relic.
+099. Storm Crown | Legendary | Legendary | legendary, storm, chain | Heavy hit streaks trigger chain lightning storms. | Aggressive storm capstone.
+100. Mirror Relic | Legendary | Legendary | legendary, mirror, copy | Active abilities gain shadow copies. | Universal duplication legendary.
+
+CATEGORY INDEX
+Weapon: 001-025
+Element: 026-035
+Modifier: 036-050
+Summon: 051-065
+Passive: 066-085
+Risk: 086-095
+Legendary: 096-100
+
+NOTES
+- Tags are intended for later system-based synergies.
+- Rarity can be rebalanced later; this is draft design data.
+- Epic and Legendary relics are intended to be run-defining.
+- This file is structured to be easy to convert into JSON, CSV, or JS objects later.
